@@ -47,6 +47,14 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=esigo&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=esigo&margin-w=15&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- <p>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esigo&show_icons=true&locale=en&layout=compact" alt="esigo" />
+</p> -->
+
+
+---
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/esigo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
