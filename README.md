@@ -60,6 +60,8 @@
   <a href="https://github.com/esigo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/ehsan-saei" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://stackoverflow.com/users/10933809" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10933809" height="30" width="40" /></a>
+  <a href="https://kubernetes.slack.com/team/UQCQ776BH" target="blank"><img src="https://a.slack-edge.com/5f35cf0/img/icons/favicon-32-ua.png" alt="10933809" height="30" width="30" /></a>
+  <a href="https://cloud-native.slack.com/team/U028J3GFH2Q" target="blank"><img src="https://a.slack-edge.com/5f35cf0/img/icons/favicon-32-ua.png" alt="10933809" height="30" width="30" /></a>
 </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=esigo-cpp)
